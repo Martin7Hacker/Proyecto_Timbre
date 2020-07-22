@@ -1,0 +1,25 @@
+Línea 19: la clase HookMenu.XpMenu del control XpMenu1 no era una clase de control cargada.
+Línea 22: el nombre de la propiedad _ExtentX de XpMenu1 no es válido.
+Línea 23: el nombre de la propiedad _ExtentY de XpMenu1 no es válido.
+Línea 24: el nombre de la propiedad BmpCount de XpMenu1 no es válido.
+Línea 25: el nombre de la propiedad CheckBorderColor de XpMenu1 no es válido.
+Línea 26: el nombre de la propiedad SelMenuBorder de XpMenu1 no es válido.
+Línea 27: el nombre de la propiedad SelMenuBackColor de XpMenu1 no es válido.
+Línea 28: el nombre de la propiedad SelMenuForeColor de XpMenu1 no es válido.
+Línea 29: el nombre de la propiedad SelCheckBackColor de XpMenu1 no es válido.
+Línea 30: el nombre de la propiedad MenuBorderColor de XpMenu1 no es válido.
+Línea 31: el nombre de la propiedad SeparatorColor de XpMenu1 no es válido.
+Línea 32: el nombre de la propiedad MenuBackColor de XpMenu1 no es válido.
+Línea 33: el nombre de la propiedad MenuForeColor de XpMenu1 no es válido.
+Línea 34: el nombre de la propiedad CheckBackColor de XpMenu1 no es válido.
+Línea 35: el nombre de la propiedad CheckForeColor de XpMenu1 no es válido.
+Línea 36: el nombre de la propiedad DisabledMenuBorderColor de XpMenu1 no es válido.
+Línea 37: el nombre de la propiedad DisabledMenuBackColor de XpMenu1 no es válido.
+Línea 38: el nombre de la propiedad DisabledMenuForeColor de XpMenu1 no es válido.
+Línea 39: el nombre de la propiedad MenuBarBackColor de XpMenu1 no es válido.
+Línea 40: el nombre de la propiedad MenuPopupBackColor de XpMenu1 no es válido.
+Línea 41: el nombre de la propiedad ShortCutNormalColor de XpMenu1 no es válido.
+Línea 42: el nombre de la propiedad ShortCutSelectColor de XpMenu1 no es válido.
+Línea 43: el nombre de la propiedad ArrowNormalColor de XpMenu1 no es válido.
+Línea 44: el nombre de la propiedad ArrowSelectColor de XpMenu1 no es válido.
+Línea 45: el nombre de la propiedad ShadowColor de XpMenu1 no es válido.
